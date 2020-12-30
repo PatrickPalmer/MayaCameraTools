@@ -1,4 +1,6 @@
 
+# see: https://github.com/PatrickPalmer/MayaCameraTools
+
 import math
 import maya.cmds as cmds
 
