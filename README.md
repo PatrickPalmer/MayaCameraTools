@@ -4,7 +4,7 @@ Here is a collection of functions I've collected while working at Alias|wavefron
 
 The Maya camera model works using two "gates": the film gate and the resolution gate. The film gate is what the camera can see, and the resolution gate is what is rendered.  The maya camera model has a number of unique settings that no other software has.  It can be a challenge to match Maya's camera with other packages.
 
-There are four options for film fit.   The green hatched area is the actual rendered area.   The greeen outline represents the camera's film gate.
+There are four options for film fit.   The green hatched area is the actual rendered area.   The green outline represents the camera's film gate.
 
 ![](images/camera_fit.jpg)
 
